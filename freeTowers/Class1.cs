@@ -7,7 +7,7 @@ using MelonLoader;
 using Assets.Scripts.Unity.UI_New.InGame.TowerSelectionMenu;
 using Assets.Scripts.Unity.Map;
 
-[assembly: MelonInfo(typeof(freeTowers.Class1), "free towers and upgrades", "1.0.0", "kenx00x")]
+[assembly: MelonInfo(typeof(freeTowers.Class1), "free towers and upgrades", "1.1.0", "kenx00x")]
 [assembly: MelonGame("Ninja Kiwi", "BloonsTD6")]
 namespace freeTowers
 {
